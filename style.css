@@ -220,6 +220,9 @@ small{
     margin-top: -1rem !important;
 }
 /*Fifth Section Styles*/
+.gallery-img{
+    max-width: 100%;
+}
 .fifth-2nd-row .col img{
     max-width: 100%;
 }
