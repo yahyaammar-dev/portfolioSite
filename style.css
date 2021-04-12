@@ -235,7 +235,9 @@ small{
 .lni-phone,.lni-mailchimp{
     color: #427bff;
 }
-
+.second-section-col1{
+    margin-top: 2rem !important;
+}
 /*Footer*/
 .lni-arrow-up{
     color: white;
@@ -340,6 +342,16 @@ small{
     .justify-content-between{
         justify-content: center !important;
     }
+    .active{
+        margin-bottom: 0.35rem !important;
+    }
+    .activenav{
+        margin-bottom: 1rem !important;
+    }
+    .navbar-toggler{
+        border: none !important;
+    }
 }
+
 
 /*Styles ends*/
